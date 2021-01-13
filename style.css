@@ -1,0 +1,109 @@
+/* .navbar-brand {
+  color: green !important;
+} */
+
+#navbarNav {
+  display: flex;
+  justify-content: center;
+}
+.col {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+
+  margin: 0%;
+  width: 0%;
+}
+.card-title {
+  color: black;
+}
+.card-text {
+  color: black;
+}
+
+.Collection {
+  display: flex;
+  justify-content: space-between;
+  padding: 2%;
+}
+.proposition {
+  display: flex;
+  justify-content: center;
+  position: relative;
+
+  text-transform: uppercase;
+  padding: 2%;
+}
+.Enfant {
+  padding: 2%;
+  background-color: ;
+}
+.total-price-container {
+  background-color: #eeeeee;
+  border-radius: 10px;
+  padding: 20px;
+}
+.total-price-container span {
+  font-size: 30px;
+}
+.cards-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.unit-price {
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.plus-btn,
+.minus-btn {
+  font-size: 30px;
+  margin: 10px;
+  /* color: rgb(233, 156, 226); */
+}
+
+.plus-btn:hover {
+  color: rgb(30, 95, 30);
+}
+
+.minus-btn:hover {
+  color: rgb(199, 16, 16);
+}
+
+.qute {
+  font-size: 25px;
+}
+
+.list-group-item i {
+  margin: 10px;
+}
+
+.fa-trash-alt {
+  font-size: 30px;
+  color: #dd6b5c;
+}
+
+.fa-heart {
+  font-size: 30px;
+}
+/* .card {
+  margin: 2% 2%;
+}
+.col {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: center;
+  margin: 2% 10%;
+} */
+/* .intro {
+  display: flex;
+  justify-content: center;
+  width: 70%;
+  flex-wrap: wrap;
+  height: 300px;
+} */
+/* #navbarNav; */
